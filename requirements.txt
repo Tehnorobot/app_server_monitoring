@@ -1,0 +1,10 @@
+csv==1.0
+PyQt5
+time
+os
+sys
+socket
+subprocess
+requests
+urllib
+platform
